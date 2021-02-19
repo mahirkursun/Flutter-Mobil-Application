@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
     <td ><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil4.JPG" alt="Your image title" width="250"/></td>
     <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil5.JPG" alt="Your image title" width="250"/></td>
     <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil7.JPG" alt="Your image title" width="250"/></td>
-    
+    <tr/>
   <tr>
     <td></td>
     <td></td>
