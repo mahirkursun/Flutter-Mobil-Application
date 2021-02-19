@@ -27,7 +27,7 @@ samples, guidance on mobile development, and a full API reference.
   </tr>
   </table>
 
-<table>
+<table align="center">
   <tr>
     <td ><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil4.JPG" alt="Your image title" width="178"/></td>
     <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil5.JPG" alt="Your image title" width="178"/></td>
