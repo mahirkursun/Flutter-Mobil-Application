@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil1.JPG)<!-- .element height="50%" width="50%" -->
+![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil1.JPG){:height="700px" width="400px"}
 ![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil6.JPG)
 ![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil2.JPG)
 ![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil3.JPG)
