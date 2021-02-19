@@ -27,18 +27,14 @@ samples, guidance on mobile development, and a full API reference.
   </tr>
   </table>
 
-<table align="center">
+<table border="2" align="center">
   <tr>
     <td ><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil4.JPG" alt="Your image title" width="178"/></td>
     <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil5.JPG" alt="Your image title" width="178"/></td>
     <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil7.JPG" alt="Your image title" width="178"/></td>
     <tr/>
   </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  </tr>
+  
 </table>
 
 
