@@ -16,9 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
+<img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil1.JPG" alt="Your image title" width="250"/>
 
-
-![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil1.JPG width="200")
+![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil1.JPG)
 ![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil6.JPG)
 ![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil2.JPG)
 ![ScreenShot](https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/resimler/screenshots/mobil3.JPG)
