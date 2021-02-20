@@ -1,4 +1,4 @@
-# mobil_app
+# mobil_application
 
 A new Flutter project.
 
